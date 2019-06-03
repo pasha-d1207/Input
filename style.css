@@ -1,0 +1,10 @@
+#button{
+    margin-left: calc(8% - 39px); 
+    display: block;
+}
+#input{
+    margin-left: calc(8% - 82px);
+}
+input{
+    margin: 5px;   
+}
